@@ -83,6 +83,17 @@ Four tables:
    ```
 6. Visit `http://localhost:8000` and register an account. To test admin features, promote a user's `role` to `admin` directly in the database.
 
+## Test Credentials
+
+The screenshots above and the local demo database include these seeded accounts for trying out both roles without registering:
+
+| Role  | Email                 | Password     |
+|-------|-----------------------|--------------|
+| Admin | admin@helpdesk.test   | Admin1234    |
+| User  | jane@example.com      | password123  |
+
+These exist only in local development data — they are not present in a fresh clone importing `database/schema.sql`, and no such accounts exist on any deployed instance.
+
 ## Screenshots
 
 **Landing page**
