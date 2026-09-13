@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /actions/
+Disallow: /dashboard.php
+Disallow: /tickets.php
+Disallow: /ticket-view.php
+Disallow: /ticket-create.php
+Disallow: /ticket-edit.php
+Allow: /
+Allow: /login.php
+Allow: /register.php
+
+Sitemap: /sitemap.xml
