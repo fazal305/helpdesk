@@ -83,6 +83,35 @@ Four tables:
    ```
 6. Visit `http://localhost:8000` and register an account. To test admin features, promote a user's `role` to `admin` directly in the database.
 
+## Screenshots
+
+**Landing page**
+![Landing page](assets/screenshots/01-landing.png)
+
+**User dashboard**
+![User dashboard](assets/screenshots/04-dashboard.png)
+
+**My Tickets — search, filter, and pagination**
+![My Tickets](assets/screenshots/05-my-tickets.png)
+
+**Creating a ticket**
+![New ticket form](assets/screenshots/07-new-ticket.png)
+
+**Ticket detail — metadata, conversation, and history**
+![Ticket detail](assets/screenshots/06-ticket-detail.png)
+
+**Admin dashboard — real, database-derived statistics**
+![Admin dashboard](assets/screenshots/08-admin-dashboard.png)
+
+**Admin ticket management**
+![Admin tickets](assets/screenshots/09-admin-tickets.png)
+
+**Admin user management**
+![Admin users](assets/screenshots/10-admin-users.png)
+
+**Responsive layout on mobile**
+![Mobile ticket list](assets/screenshots/11-mobile-tickets.png)
+
 ## Live Demo
 
 Not yet deployed.
